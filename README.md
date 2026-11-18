@@ -110,21 +110,33 @@ Estas son algunas de las tecnologías con las que trabajo y sigo ampliando mis c
 
 ---
 
+
 ## 🚀 Mis proyectos
-
-Me gusta poner en práctica mis conocimientos creando proyectos y experimentando con diferentes tecnologías.
-
-Puedes descubrir mis trabajos y seguir mi evolución como desarrolladora aquí:
 
 <div align="center">
 
-<a href="https://github.com/lopez27judit-cell?tab=repositories">
-<img src="https://img.shields.io/badge/VER%20TODOS%20MIS%20PROYECTOS-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+### 💜 Nothingan-Prisa
+
+<a href="https://github.com/lopez27judit-cell/Nothingan-Prisa">
+  <img src="https://img.shields.io/badge/VER%20PROYECTO-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
+**Nothingan-Prisa** es uno de mis proyectos personales, en el que pongo en práctica mis conocimientos de programación y sigo desarrollando mis habilidades.
+
+🔗 **Repositorio:** [Nothingan-Prisa](https://github.com/lopez27judit-cell/Nothingan-Prisa)
+
 ---
+
+<div align="center">
+
+<a href="https://github.com/lopez27judit-cell?tab=repositories">
+  <img src="https://img.shields.io/badge/VER%20TODOS%20MIS%20PROYECTOS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 
 ## 🎯 Mis objetivos
 
