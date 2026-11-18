@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="./imagenes/judit.png"
+     width="180"
+     alt="Foto de Judit"
+     style="border-radius: 50%;">
+<h1 align="center">¡Hola! Soy Judit 👋</h1>
+
+<h3 align="center">
+  Desarrolladora en formación 💻
+</h3>
