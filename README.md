@@ -5,7 +5,6 @@
 
 <img src="https://github.com/lopez27judit-cell.png" width="160" alt="Foto de Judit"/>
 
-# ¡Hola! Soy Judit 👋💜
 
 ### 💻 Estudiante de programación | Futura desarrolladora de software
 
