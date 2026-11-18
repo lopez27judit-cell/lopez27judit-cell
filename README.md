@@ -2,7 +2,10 @@
 
 <!--
 **lopez27judit-cell/lopez27judit-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="./images/judit.png"
+     width="180"
+     alt="Foto de Judit"
+     style="border-radius: 50%;">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
