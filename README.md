@@ -1,15 +1,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:39236b,100:8b5cf6&height=220&section=header&text=JUDIT%20L%C3%93PEZ&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ESTUDIANTE%20%7C%20DESARROLLO%20WEB&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:39236b,100:8b5cf6&height=230&section=header&text=JUDIT%20L%C3%93PEZ&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=ESTUDIANTE%20DE%20PROGRAMACI%C3%93N%20%7C%20DESARROLLO%20WEB&descAlignY=58&descSize=16"/>
 
 <img src="https://github.com/lopez27judit-cell.png" width="160" alt="Foto de Judit"/>
 
-# ¡Hola! Soy Judit 👋
+# ¡Hola! Soy Judit 👋💜
 
-### 💜 Estudiante de programación | Futura desarrolladora web
+### 💻 Estudiante de programación | Futura desarrolladora de software
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Bienvenidos+a+mi+perfil+de+GitHub;Aprendiendo+HTML%2C+CSS+y+JavaScript;Construyendo+mi+futuro+con+programaci%C3%B3n;Aprendiendo+cada+d%C3%ADa+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Bienvenidos+a+mi+perfil+de+GitHub;Apasionada+por+la+programaci%C3%B3n;Explorando+nuevas+tecnolog%C3%ADas;Aprendiendo+algo+nuevo+cada+d%C3%ADa;El+c%C3%B3digo+es+mi+forma+de+crear+%F0%9F%9A%80"/>
 
 <br/>
 
@@ -21,45 +21,75 @@
 
 ## 👩‍💻 Sobre mí
 
-¡Hola! Soy Judit, estudiante de programación y apasionada por el mundo de la tecnología.
+¡Hola! Soy Judit, estudiante de programación y una persona apasionada por la tecnología, la informática y el desarrollo de software.
 
-Actualmente estoy aprendiendo desarrollo web y mejorando mis habilidades para convertirme en desarrolladora.
+Me gusta descubrir cómo funcionan las cosas, aprender nuevos lenguajes de programación y convertir ideas en proyectos reales mediante el código.
 
-- 🎓 Estudiante de programación.
-- 🌱 Aprendiendo HTML, CSS y JavaScript.
-- 💻 Interesada en el desarrollo web.
-- 🚀 Creando mis primeros proyectos.
-- ✨ Siempre buscando aprender algo nuevo.
+Actualmente estoy ampliando mis conocimientos en diferentes tecnologías, explorando tanto el desarrollo web como la programación en distintos lenguajes.
+
+Mi objetivo es seguir creciendo como desarrolladora, adquirir experiencia y desarrollar proyectos cada vez más completos y creativos.
+
+### ✨ Un poco más sobre mí
+
+- 🎓 Estudiante de programación y desarrollo de software.
+- 💻 Interesada en el desarrollo web y la programación.
+- 🌱 Siempre aprendiendo nuevos lenguajes y tecnologías.
+- 🧠 Me gusta resolver problemas y buscar soluciones mediante el código.
+- 🚀 Disfruto creando proyectos y poniendo en práctica lo aprendido.
+- 🔍 Me interesa descubrir nuevas herramientas y mejorar mis habilidades.
+- 🎯 Mi objetivo es convertirme en una gran desarrolladora.
+- 💜 Creo que cada línea de código es una oportunidad para aprender algo nuevo.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Lenguajes de programación y tecnologías
+
+Estas son algunas de las tecnologías con las que trabajo y sigo ampliando mis conocimientos.
 
 <div align="center">
 
-### 💻 Desarrollo web
+### 🌐 Desarrollo web
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
-### 🔧 Herramientas
+### 💻 Lenguajes de programación
 
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,cs,php&theme=dark"/>
+
+### ⚙️ Herramientas de desarrollo
+
+<img src="https://skillicons.dev/icons?i=github,vscode,git&theme=dark"/>
 
 </div>
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Mis conocimientos
 
-| Tecnología | Objetivo |
-|:---:|:---|
-| HTML5 | Crear la estructura de páginas web |
-| CSS3 | Diseñar y dar estilo a páginas web |
-| JavaScript | Añadir interactividad y funcionalidad |
+| Tecnología | Área |
+|:---|:---|
+| HTML5 | Estructura web |
+| CSS3 | Diseño y estilos web |
+| JavaScript | Programación web e interactividad |
+| Java | Programación orientada a objetos |
+| Python | Programación y lógica |
+| C# | Desarrollo de software |
+| PHP | Desarrollo web del lado del servidor |
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 💜 Lo que me gusta aprender
+
+- 🌐 Crear páginas web modernas y atractivas.
+- 🎨 Mejorar el diseño y la experiencia de usuario.
+- ⚡ Desarrollar funcionalidades con JavaScript.
+- 🧩 Resolver problemas mediante la programación.
+- 🖥️ Explorar diferentes lenguajes y entornos de desarrollo.
+- 🔧 Aprender nuevas herramientas para desarrollar proyectos.
+
+---
+
+## 📊 Mis estadísticas de GitHub
 
 <div align="center">
 
@@ -71,7 +101,7 @@ Actualmente estoy aprendiendo desarrollo web y mejorando mis habilidades para co
 
 ---
 
-## 🔥 Mi actividad en GitHub
+## 🔥 Mi constancia programando
 
 <div align="center">
 
@@ -83,22 +113,38 @@ Actualmente estoy aprendiendo desarrollo web y mejorando mis habilidades para co
 
 ## 🚀 Mis proyectos
 
+Me gusta poner en práctica mis conocimientos creando proyectos y experimentando con diferentes tecnologías.
+
+Puedes descubrir mis trabajos y seguir mi evolución como desarrolladora aquí:
+
 <div align="center">
 
 <a href="https://github.com/lopez27judit-cell?tab=repositories">
-<img src="https://img.shields.io/badge/VER%20MIS%20REPOSITORIOS-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20TODOS%20MIS%20PROYECTOS-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🤝 Contacto
+## 🎯 Mis objetivos
+
+- [ ] Seguir mejorando mis conocimientos de programación.
+- [ ] Perfeccionar mis habilidades en desarrollo web.
+- [ ] Crear proyectos personales más completos.
+- [ ] Aprender nuevas tecnologías y frameworks.
+- [ ] Mejorar mis habilidades en programación orientada a objetos.
+- [ ] Construir un portfolio profesional.
+- [ ] Seguir creciendo en el mundo del desarrollo de software.
+
+---
+
+## 🤝 Conecta conmigo
 
 <div align="center">
 
 <a href="https://github.com/lopez27judit-cell">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -109,8 +155,10 @@ Actualmente estoy aprendiendo desarrollo web y mejorando mis habilidades para co
 
 ### 💜 ¡Gracias por visitar mi perfil!
 
-**Aprendiendo hoy, construyendo mi futuro mañana. 🚀**
+**Aprendiendo, creando y creciendo línea a línea.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:39236b,100:09090f&height=120&section=footer"/>
+*El futuro se construye con cada línea de código.* 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:39236b,100:09090f&height=130&section=footer"/>
 
 </div>
